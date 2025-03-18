@@ -86,5 +86,7 @@
     width: 100%;
     object-fit: cover;
 }
-
-
+.card-img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
